@@ -29,20 +29,42 @@
     <a href="https://leetcode.com/u/Prakhar_senpai/" target="_blank">
       <img src="./assets/btn-leetcode.svg" height="34" alt="LeetCode" />
     </a>
-    &nbsp;
-    <a href="https://github.com/codesenpaiprakhar" target="_blank">
-      <img src="./assets/btn-github.svg" height="34" alt="GitHub" />
-    </a>
   </p>
 
   <br/>
 
-  <!-- 4. ENGINEERING PHILOSOPHY CARD -->
+  <!-- 4. ABOUT ME (Side-by-side with Cat Coding in Glasses GIF) -->
+  <table border="0" width="100%">
+    <tr>
+      <td width="64%" align="left" valign="top">
+        <p>
+          <img src="https://img.shields.io/badge/ABOUT%20ME-F59E0B?style=for-the-badge&logoColor=black&labelColor=14130E" alt="About Me" />
+        </p>
+        <p>
+          Hey there! I'm <b>Prakhar Singh</b>, a Computer Science undergraduate at <b>Dr. A.P.J. Abdul Kalam Technical University (AKTU)</b> specializing in backend architecture, scalable systems, and clean API design.
+        </p>
+        <p>
+          🎓 <b>Education:</b> B.Tech in Computer Science &amp; Engineering (CGPA: 7.1)<br/>
+          💼 <b>Seeking:</b> Software Developer, Java/Python Engineer &amp; Backend Roles<br/>
+          ⚡ <b>Active Stack:</b> Spring Boot, Flask, Java, Python, React, Vite, MySQL &amp; Docker<br/>
+          🧠 <b>Engineering Drive:</b> Mapping domain constraints to reliable system design &amp; explicit API contracts<br/>
+          📍 <b>Location:</b> Varanasi, Uttar Pradesh, India
+        </p>
+      </td>
+      <td width="36%" align="center" valign="middle">
+        <img src="https://media.giphy.com/media/P8ef3Dkynk0xLx1h1T/giphy.gif" width="240" alt="Cat Coding on Laptop with Glasses" style="border-radius: 12px;" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- 5. ENGINEERING PHILOSOPHY CARD -->
   <img src="./assets/philosophy.svg" width="100%" alt="Engineering Philosophy" />
 
   <br/><br/>
 
-  <!-- 5. TECHNICAL CAPABILITIES CARD -->
+  <!-- 6. TECHNICAL CAPABILITIES CARD -->
   <img src="./assets/tech-stack.svg" width="100%" alt="Technical Capabilities" />
 
 </div>
