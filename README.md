@@ -26,7 +26,7 @@
       <img src="./assets/btn-email.svg" height="34" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://leetcode.com" target="_blank">
+    <a href="https://leetcode.com/u/Prakhar_senpai/" target="_blank">
       <img src="./assets/btn-leetcode.svg" height="34" alt="LeetCode" />
     </a>
     &nbsp;
@@ -57,7 +57,7 @@
 
 <!-- Project 1: Cross-Platform Music Player -->
 <details open>
-  <summary><b>🎵 Cross-Platform Audio Player &amp; Library</b> — <i>React, TypeScript, Tailwind CSS, CI/CD</i></summary>
+  <summary><b>🎵 Spotify Clone &amp; Library</b> — <i>React, TypeScript, Tailwind CSS, CI/CD</i></summary>
   <br/>
   <blockquote>High-performance client-side music application engineered with local metadata extraction, offline caching, and responsive audio playback.</blockquote>
 
