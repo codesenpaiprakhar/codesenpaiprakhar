@@ -14,7 +14,7 @@
 
   <!-- 3. ACTION BUTTONS (Yellow Luxury Rectangular Buttons) -->
   <p align="center">
-    <a href="https://github.com/codesenpaiprakhar" target="_blank">
+    <a href="https://codesenpaiprakhar.github.io/firstportfolio/" target="_blank">
       <img src="./assets/btn-portfolio.svg" height="34" alt="Portfolio" />
     </a>
     &nbsp;
